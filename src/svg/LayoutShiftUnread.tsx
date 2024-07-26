@@ -5,6 +5,8 @@ const SvgLayoutShiftUnread = (props: SVGProps<SVGSVGElement>) => (
     strokeLinejoin="round"
     data-testid="geist-icon"
     viewBox="0 0 16 16"
+    width={16}
+    height={16}
     {...props}
   >
     <g clipPath="url(#layout-shift-unread_svg__a)">

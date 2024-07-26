@@ -1,1 +1,3 @@
-<svg stroke-linejoin="round" data-testid="geist-icon" viewBox="0 0 16 16"><path fill="white" fill-rule="evenodd" d="M13.264 3.5H2.736L8 8.012 13.264 3.5zM1.5 4.416V11.5a1 1 0 001 1h11a1 1 0 001-1V4.416L8.488 9.57 8 9.988l-.488-.419L1.5 4.416zM0 2h16v9.5a2.5 2.5 0 01-2.5 2.5h-11A2.5 2.5 0 010 11.5V2z" clip-rule="evenodd"/></svg>
+<svg stroke-linejoin="round" data-testid="geist-icon" viewBox="0 0 16 16"
+width={16}
+height={16}><path fill="white" fill-rule="evenodd" d="M13.264 3.5H2.736L8 8.012 13.264 3.5zM1.5 4.416V11.5a1 1 0 001 1h11a1 1 0 001-1V4.416L8.488 9.57 8 9.988l-.488-.419L1.5 4.416zM0 2h16v9.5a2.5 2.5 0 01-2.5 2.5h-11A2.5 2.5 0 010 11.5V2z" clip-rule="evenodd"/></svg>

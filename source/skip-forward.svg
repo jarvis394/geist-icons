@@ -1,1 +1,3 @@
-<svg stroke-linejoin="round" data-testid="geist-icon" viewBox="0 0 16 16"><path fill="white" fill-rule="evenodd" d="M10.603 7.111l.031.02.583.371.452.287a.25.25 0 010 .422l-.452.287-.583.371-.031.02L2.5 14.046l-.08.05-.704.449-.332.21a.25.25 0 01-.384-.21V1.455a.25.25 0 01.384-.21l.332.21.703.448.081.052 8.103 5.156zM2.5 3.733L9.206 8 2.5 12.268V3.732zM15 2v-.75h-1.5v13.5H15V2z" clip-rule="evenodd"/></svg>
+<svg stroke-linejoin="round" data-testid="geist-icon" viewBox="0 0 16 16"
+width={16}
+height={16}><path fill="white" fill-rule="evenodd" d="M10.603 7.111l.031.02.583.371.452.287a.25.25 0 010 .422l-.452.287-.583.371-.031.02L2.5 14.046l-.08.05-.704.449-.332.21a.25.25 0 01-.384-.21V1.455a.25.25 0 01.384-.21l.332.21.703.448.081.052 8.103 5.156zM2.5 3.733L9.206 8 2.5 12.268V3.732zM15 2v-.75h-1.5v13.5H15V2z" clip-rule="evenodd"/></svg>

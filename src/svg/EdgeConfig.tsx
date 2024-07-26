@@ -5,12 +5,16 @@ const SvgEdgeConfig = (props: SVGProps<SVGSVGElement>) => (
     strokeLinejoin="round"
     data-testid="geist-icon"
     viewBox="0 0 16 16"
+    width={16}
+    height={16}
     {...props}
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
       viewBox="0 0 16 16"
+      width={16}
+      height={16}
       {...props}
     >
       <g clipPath="url(#edge-config_svg__a)">

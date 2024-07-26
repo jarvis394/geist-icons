@@ -5,6 +5,8 @@ const SvgFunctionNode = (props: SVGProps<SVGSVGElement>) => (
     strokeLinejoin="round"
     data-testid="geist-icon"
     viewBox="0 0 16 16"
+    width={16}
+    height={16}
     {...props}
   >
     <g clipPath="url(#function-node_svg__clip0_1534_28976)">

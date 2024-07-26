@@ -5,6 +5,8 @@ const SvgLogoSplitbee = (props: SVGProps<SVGSVGElement>) => (
     strokeLinejoin="round"
     data-testid="geist-icon"
     viewBox="0 0 16 16"
+    width={16}
+    height={16}
     {...props}
   >
     <path fill="#fff" d="M4.79 13.465v-5.32L.532 11.468l4.257 1.996z" />

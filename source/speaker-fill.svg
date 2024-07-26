@@ -1,1 +1,3 @@
-<svg stroke-linejoin="round" data-testid="geist-icon" viewBox="0 0 16 16"><path fill="white" d="M2 11V5a1 1 0 011-1h3l8-4v16l-8-4H3a1 1 0 01-1-1z"/></svg>
+<svg stroke-linejoin="round" data-testid="geist-icon" viewBox="0 0 16 16"
+width={16}
+height={16}><path fill="white" d="M2 11V5a1 1 0 011-1h3l8-4v16l-8-4H3a1 1 0 01-1-1z"/></svg>

@@ -5,6 +5,8 @@ const SvgPrismColor = (props: SVGProps<SVGSVGElement>) => (
     strokeLinejoin="round"
     data-testid="geist-icon"
     viewBox="0 0 16 16"
+    width={16}
+    height={16}
     {...props}
   >
     <path stroke="var(--ds-red-700)" strokeWidth={1.5} d="m9 7 3.5-4.5" />
